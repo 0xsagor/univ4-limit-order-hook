@@ -1,0 +1,10 @@
+{
+  "name": "univ4-limit-order-hook",
+  "version": "1.0.0",
+  "description": "Uniswap V4 Limit Order Hook Proof of Concept",
+  "dependencies": {
+    "@uniswap/v4-core": "1.0.0",
+    "@uniswap/v4-periphery": "1.0.0",
+    "solhint": "^4.0.0"
+  }
+}
