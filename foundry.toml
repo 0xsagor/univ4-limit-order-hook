@@ -1,0 +1,6 @@
+[profile.default]
+src = "."
+out = "out"
+libs = ["lib"]
+solc = "0.8.24"
+evm_version = "cancun" # V4 requires Cancun for transient storage
